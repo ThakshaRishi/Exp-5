@@ -51,7 +51,35 @@ Represent objects as boxes connected by lines.
 Label messages with sequence numbers and direction arrows.
 
 # DIAGRAMS:
-(upload all 6 diagrams)
+
+# Use Case Diagram
+
+![image](https://github.com/user-attachments/assets/e4ba07db-ea81-456e-b874-35658e34936f)
+
+
+# Class Diagram
+
+![image](https://github.com/user-attachments/assets/e94d128b-a7b6-4ca7-bc30-ccc88ccbd48b)
+
+# Activity Diagram
+
+![image](https://github.com/user-attachments/assets/fca02f5b-fdb8-483e-96bc-1c76b26e362f)
+
+
+# Sequence Diagram
+
+![image](https://github.com/user-attachments/assets/f1026c20-2b45-4768-89db-01c4eba5bf76)
+
+
+# Package Diagram
+
+![image](https://github.com/user-attachments/assets/d6c4a91c-bec5-4007-ae8e-afc027bca472)
+
+
+# Communication Diagram
+
+![image](https://github.com/user-attachments/assets/2ca4c2a6-7932-4bba-b1a4-175b4d15037a)
+
 
 # RESULT:
 Thus, the UML diagrams for a Student Enrollment System has been designed successfully.
