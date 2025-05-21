@@ -78,7 +78,7 @@ Label messages with sequence numbers and direction arrows.
 
 # Communication Diagram
 
-![image](https://github.com/user-attachments/assets/2ca4c2a6-7932-4bba-b1a4-175b4d15037a)
+![image](https://github.com/user-attachments/assets/229516b5-7aec-4e25-83d4-a3bbebe6f245)
 
 
 # RESULT:
